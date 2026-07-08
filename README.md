@@ -30,6 +30,16 @@ https://ai-based-email-assistant.onrender.com
 _(Will be added soon)_  
 
 ---
+## 🧩 Chrome Extension  
+This project also includes a Chrome Extension that helps users generate AI email replies directly inside their browser.  
+
+## 🧪 How to Use Extension  
+
+1. Go to Chrome → Extensions  
+2. Enable Developer Mode  
+3. Click on "Load Unpacked"  
+4. Select the extension folder  
+5. Start using the AI email assistant in browser  
 
 ## ⚙️ Run Locally  
 

@@ -35,16 +35,16 @@ _(Will be added soon)_
 
 1. Clone the repository  
 git clone
-git clone https://github.com/your-username/your-repo.git
+https://github.com/deepika-pundir/AI-Based-Email-Assistant.git
 
-2. Navigate to the Project directory
+3. Navigate to the Project directory
 cd your-repo
 
-3. Run the backend server
+4. Run the backend server
 cd backend
 mvn spring-boot:run
 
-4. Run the frontend application
+5. Run the frontend application
 cd frontend
 npm install
 npm run dev
